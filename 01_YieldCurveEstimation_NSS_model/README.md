@@ -1,5 +1,7 @@
 # NSS Yield Curve Visualization
 
+https://yieldcurveestimation1nss.streamlit.app/
+
 Interactive dashboard and notebook for exploring the **Nelson-Siegel-Svensson (NSS)** Zero Coupon Yield Curve (ZCYC) for Indian Government Securities.
 
 ## Project Structure
@@ -62,3 +64,4 @@ $$r(m) = \beta_0 + \beta_1 \left(\frac{1 - e^{-m/\tau_1}}{m/\tau_1}\right) + \be
 1. Nelson & Siegel (1987) — *Parsimonious Modeling of Yield Curves*, Journal of Business
 2. Svensson (1994) — *Estimating Forward Interest Rates*, NBER WP 4871
 3. BIS Papers No. 25 (2005) — *Zero-Coupon Yield Curves: Technical Documentation*
+
