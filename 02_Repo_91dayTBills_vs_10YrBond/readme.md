@@ -2,7 +2,7 @@
 
 Analyzing the relationship between India's **Repo Rate**, **91-Day T-Bill Rate**, and **10-Year Government Bond Yield** using monthly data.
 
-## What This Does
+## What This Does :
 
 - Converts RBI repo rate changes into a monthly time series
 - Merges all three rate series on a common date index
